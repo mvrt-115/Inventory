@@ -1,0 +1,44 @@
+{
+  "name": "enginv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "elasticsearchclient": "^0.5.3",
+    "express": "^4.13.3",
+    "flux": "^2.1.1"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browser-sync": "^2.9.11",
+    "browserify": "^11.2.0",
+    "events": "^1.1.0",
+    "firebase": "^2.3.1",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-supervisor": "^0.1.2",
+    "history": "^1.13.0",
+    "material-ui": "^0.13.1",
+    "object-assign": "^4.0.1",
+    "react": "^0.14.0",
+    "react-addons-create-fragment": "^0.14.0",
+    "react-addons-pure-render-mixin": "^0.14.0",
+    "react-addons-transition-group": "^0.14.0",
+    "react-addons-update": "^0.14.0",
+    "react-bootstrap": "^0.27.2",
+    "react-dom": "^0.14.0",
+    "react-router": "^1.0.0-rc4",
+    "react-tap-event-plugin": "^0.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "babel": {
+    "stage": 1
+  }
+}
